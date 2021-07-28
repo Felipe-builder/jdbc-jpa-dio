@@ -4,3 +4,23 @@ part2/ConnectionJDBC1.java
  part2.ConnectionJDBC1
 part2/ConnectionJDBC2.java
  part2.ConnectionJDBC2
+part2/ConnectionJDBCMysql.java
+ part2.ConnectionJDBCMysql
+part2/ConnectionJDBCMysql1.java
+ part2.ConnectionJDBCMysql1
+part2/ConnectionJDBCMysql2.java
+ part2.ConnectionJDBCMysql2
+part3/Aluno.java
+ part3.Aluno
+part3/ConnectionFactory.java
+ part3.ConnectionFactory
+part3/AlunoDAO.java
+ part3.AlunoDAO
+part3/QueriesExecution.java
+ part3.QueriesExecution
+part3/Curso.java
+ part3.Curso
+part3/CursoDAO.java
+ part3.CursoDAO
+part3/CursoTest.java
+ part3.CursoTest

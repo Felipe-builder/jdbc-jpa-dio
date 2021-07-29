@@ -16,7 +16,7 @@ public class ConnectionFactory {
 
         //OBS: NÃO ESQUECER DE BAIXAR O DRIVER PARA O BANCO DE DADOS QUE IRÁ UTILIZAR! (Como Demonstrado na parte 1 do curso)
 
-        // 1 - Deckarar objeto conexão (irá receber uma conexão após executar os passos abaixo)
+        // 1 - Declarar objeto conexão (irá receber uma conexão após executar os passos abaixo)
         Connection connection = null;
 
         // 2 - Carregar arquivo de propriedades para pegar parâmetros necessários para se comunicar com o banco de dados
